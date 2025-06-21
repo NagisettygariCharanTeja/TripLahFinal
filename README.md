@@ -1,4 +1,4 @@
-# 🌏 TripLah! Travel Gamification App
+# TripLah! Travel Gamification App
 
 ## Description
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 - Charan Teja Nagisettygari  
 - Rozin Khan  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 
@@ -40,11 +40,11 @@
 
 ---
 
-## 🔥 Challenge
+## Challenge
 
 Traditional travel planning can often be static and unengaging. Tourists might miss out on unique local experiences, struggle with accurate information, or feel isolated.
 
-## 💡 Our Approach
+## Our Approach
 
 - **Gamification**: Points, badges, and a leaderboard to motivate exploration.
 - **Personalized Activities**: Categorized into **Wanderer**, **Explorer**, and **Trailblazer** to suit different user preferences and fitness levels.
