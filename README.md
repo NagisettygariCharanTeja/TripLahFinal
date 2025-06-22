@@ -53,3 +53,14 @@ Traditional travel planning can often be static and unengaging. Tourists might m
 - **Firebase Integration**: Manages activity data, user task tracking, and chat logs dynamically.
 
 ---
+
+## AI Integration & Credits
+
+- The **Myth-Buster** and **AI Chat** features are powered by the **DeepSeek V3** model via [Together.ai](https://www.together.ai).
+- **Camera simulation** and **SOS functionality integration** were guided and debugged using AI tools.
+- Development assistance (e.g., code debugging and architectural decisions) was provided by:
+  - **ChatGPT** (OpenAI)
+  - **Claude AI** (Anthropic)
+  - **Gemini** (Google)
+
+These AI tools were instrumental in streamlining development, resolving technical challenges, and enhancing application features efficiently.
